@@ -25,5 +25,6 @@ saying you have won the game or else it will show all the incorrect number place
 
 5) Exit button will allow the player to exit the game.
 
-<img width="494" alt="exit" src="https://user-images.githubusercontent.com/40658745/204778667-da091fdd-d4d8-4361-aefe-f86a9a41f12e.png">
+<img width="404" alt="6s" src="https://user-images.githubusercontent.com/40658745/204778841-eae9bb9b-b0f1-4db1-b96d-504cc39688af.png">
+
 
